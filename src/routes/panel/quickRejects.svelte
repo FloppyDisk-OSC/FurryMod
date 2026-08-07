@@ -74,7 +74,7 @@
     </details>
 
     <details><summary>Chat & User-Generated Content</summary>
-        <button on:click={() => event("Your project was removed because projects containing online chat with custom messages are no longer allowed. This rule is in place to help keep users safe.")}>
+        <button on:click={() => event("Your project was removed because projects containing online chat with custom messages are not allowed. This rule is in place to help keep users safe.")}>
         Chatroom Project</button>
         <button on:click={() => event("Your project was removed because it allows users to view/upload user-generated content. This is not allowed because PenguinMod cannot moderate this content.")}>
         User-Generated Content</button>
