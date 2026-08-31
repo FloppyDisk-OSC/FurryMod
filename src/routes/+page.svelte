@@ -404,17 +404,13 @@
             <!-- only render video if we are definetly not logged in -->
             {#if loggedIn === false}
                 {#if !thingyActive}
-                    <iframe
-                        width="560"
-                        height="315"
-                        src="https://www.youtube-nocookie.com/embed/g8zwb4W3G8Q"
-                        title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin"
-                        allowfullscreen
-                        class="example-video"
-                    />
+                <img
+                    width="560"
+                    height="315"
+                    src="https://floppydisk-osc.github.io/furrymod-assets/spinning.gif"
+                    alt="meowww X3"
+                    class="example-video"
+                />
                 {:else}
                     <iframe
                         src="/eao.html"
