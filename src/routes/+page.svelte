@@ -371,14 +371,14 @@
             <div style="margin-left: 8rem;">
                 <h1>
                     <LocalizedText
-                        text="Block-based coding with tons of capabilities"
+                        text="Bwock-based coding with t-tons of capabiwities *wags tail* Nya~"
                         key="home.introduction1"
                         lang={currentLang}
                     />
                 </h1>
                 <h1>
                     <LocalizedText
-                        text="Built off of TurboWarp and Scratch"
+                        text="*Wags my fluffy tail* Built off of TurboWarp and Scwatch~ meow~"
                         key="home.introduction2"
                         dolink={true}
                         lang={currentLang}
@@ -501,7 +501,7 @@
     <p style="width: 100%; text-align: center;">
         <i>
             <LocalizedText
-                text="Scratch Note: Please don't mention PenguinMod on Scratch, we have different rules compared to Scratch! 😅"
+                text="Nyaaaa~ *paws at you and wags my tail*"
                 key="home.scratchnote"
                 lang={currentLang}
             />
