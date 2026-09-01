@@ -1269,14 +1269,14 @@
         width: 100%;
         padding: 24px 0px 48px;
         border-top: rgba(0, 0, 0, 0.3) 1px solid;
-        background: #00c3ff15;
+        background: #ed900e15;
         font-weight: bold;
         margin-top: 4px;
         /* border-top-left-radius: 20%; */
         /* border-top-right-radius: 20%; */
     }
     .footer a {
-        color: dodgerblue;
+        color: #ed900e;
         font-weight: normal;
         margin: 2px 0px;
     }
