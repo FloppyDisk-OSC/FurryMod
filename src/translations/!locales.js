@@ -3,6 +3,7 @@
 // then the file path should be self explanatory, just follow the ones already there
 // you can find the actual language translations in the src/translations folder
 
+import owo from '../translations/owo.json';
 import en from '../translations/en.json';
 import id from '../translations/id.json';
 import it from '../translations/it.json';
@@ -38,6 +39,7 @@ import enReversed from '../translations/en-reversed.json';
 // the second part is the import name above that had no symbols
 // its easy to just duplicate the "en": en, line and then change accordingly
 const languages = {
+    "owo": owo,                    // Furry Speak
     "en": en,                      // English
     "es": es,                      // Espanol (Spain)
     "es-419": es419,               // Espanol (Latin American)
