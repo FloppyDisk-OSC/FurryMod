@@ -487,13 +487,14 @@
     />
 </div>
 
-	:root {
-		--penguinmod-color: #ff8c00;
-	}
-	
-	:global(body.dark-mode) {
-		--penguinmod-color: #cc7000;
-	}
+<style>
+    :root {
+        --penguinmod-color: #fc8c30;
+    }
+    :global(body.dark-mode) {
+        --penguinmod-color: #db741f;
+    }
+
     .bar {
         position: fixed;
         width: 100%;
