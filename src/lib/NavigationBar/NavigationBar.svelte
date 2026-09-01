@@ -487,12 +487,13 @@
     />
 </div>
 
-:root {
-    --penguinmod-color: linear-gradient(90deg, #ff8c00, #ff4500);
-}
-:global(body.dark-mode) {
-    --penguinmod-color: linear-gradient(90deg, #cc7000, #993300);
-}
+	:root {
+		--penguinmod-color: #ff8c00;
+	}
+	
+	:global(body.dark-mode) {
+		--penguinmod-color: #cc7000;
+	}
     .bar {
         position: fixed;
         width: 100%;
