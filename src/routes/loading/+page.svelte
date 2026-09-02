@@ -6,10 +6,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Loading</title>
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home">
+    <title>FurryMod - Loading</title>
+    <meta name="title" content="FurryMod - Home" />
+    <meta property="og:title" content="FurryMod - Home" />
+    <meta property="twitter:title" content="FurryMod - Home">
     <meta name="description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="twitter:description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="og:url" content="https://penguinmod.com/">

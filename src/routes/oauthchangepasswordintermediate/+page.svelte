@@ -131,15 +131,15 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Change Password With OAuth</title>
-    <meta name="title" content="PenguinMod - Change Password With OAuth" />
+    <title>FurryMod - Change Password With OAuth</title>
+    <meta name="title" content="FurryMod - Change Password With OAuth" />
     <meta
         property="og:title"
-        content="PenguinMod - Change Password With OAuth"
+        content="FurryMod - Change Password With OAuth"
     />
     <meta
         property="twitter:title"
-        content="PenguinMod - Change Password With OAuth"
+        content="FurryMod - Change Password With OAuth"
     />
     <meta
         name="description"

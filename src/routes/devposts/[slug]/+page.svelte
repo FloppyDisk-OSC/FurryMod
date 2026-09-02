@@ -41,10 +41,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Developer Post</title>
-    <meta name="title"                   content="PenguinMod - Developer Post" />
-    <meta property="og:title"            content="PenguinMod - Developer Post" />
-    <meta property="twitter:title"       content="PenguinMod - Developer Post" />
+    <title>FurryMod - Developer Post</title>
+    <meta name="title"                   content="FurryMod - Developer Post" />
+    <meta property="og:title"            content="FurryMod - Developer Post" />
+    <meta property="twitter:title"       content="FurryMod - Developer Post" />
 </svelte:head>
 
 <div class="container">

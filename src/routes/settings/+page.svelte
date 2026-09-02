@@ -368,10 +368,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Settings</title>
-    <meta name="title" content="PenguinMod - Settings" />
-    <meta property="og:title" content="PenguinMod - Settings" />
-    <meta property="twitter:title" content="PenguinMod - Settings" />
+    <title>FurryMod - Settings</title>
+    <meta name="title" content="FurryMod - Settings" />
+    <meta property="og:title" content="FurryMod - Settings" />
+    <meta property="twitter:title" content="FurryMod - Settings" />
     <meta name="description" content="View your account settings." />
     <meta
         property="twitter:description"

@@ -24,7 +24,7 @@ Disallow: /unfinishedsignup
 Disallow: /05-02-1998_test_screenshot.png
 Disallow: /8ball.html
 Disallow: /eao.html
-Disallow: /MENGUINPOD-THETRUTH.html
+Disallow: /furrymode.html
 Disallow: /recompilepls.txt
 # Random stuff/resources/weird urls that are requested for no reason
 Disallow: /cdn-cgi/

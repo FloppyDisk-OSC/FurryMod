@@ -234,10 +234,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Sign Up</title>
-    <meta name="title" content="PenguinMod - Sign Up" />
-    <meta property="og:title" content="PenguinMod - Sign Up" />
-    <meta property="twitter:title" content="PenguinMod - Sign Up" />
+    <title>FurryMod - Sign Up</title>
+    <meta name="title" content="FurryMod - Sign Up" />
+    <meta property="og:title" content="FurryMod - Sign Up" />
+    <meta property="twitter:title" content="FurryMod - Sign Up" />
     <meta
         name="description"
         content="Sign up for PenguinMod to start sharing your projects!"

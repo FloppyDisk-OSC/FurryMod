@@ -273,10 +273,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Report</title>
-    <meta name="title" content="PenguinMod - Report" />
-    <meta property="og:title" content="PenguinMod - Report" />
-    <meta property="twitter:title" content="PenguinMod - Report" />
+    <title>FurryMod - Report</title>
+    <meta name="title" content="FurryMod - Report" />
+    <meta property="og:title" content="FurryMod - Report" />
+    <meta property="twitter:title" content="FurryMod - Report" />
     <meta
         name="description"
         content="Report a specific project or user on PenguinMod."

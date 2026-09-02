@@ -277,10 +277,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Messages</title>
-    <meta name="title" content="PenguinMod - Messages" />
-    <meta property="og:title" content="PenguinMod - Messages" />
-    <meta property="twitter:title" content="PenguinMod - Messages" />
+    <title>FurryMod - Messages</title>
+    <meta name="title" content="FurryMod - Messages" />
+    <meta property="og:title" content="FurryMod - Messages" />
+    <meta property="twitter:title" content="FurryMod - Messages" />
     <meta name="description" content="See your messages or alerts." />
     <meta
         property="twitter:description"

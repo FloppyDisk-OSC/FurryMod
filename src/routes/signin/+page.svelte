@@ -199,10 +199,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Login</title>
-    <meta name="title" content="PenguinMod - Login" />
-    <meta property="og:title" content="PenguinMod - Login" />
-    <meta property="twitter:title" content="PenguinMod - Login" />
+    <title>FurryMod - Login</title>
+    <meta name="title" content="FurryMod - Login" />
+    <meta property="og:title" content="FurryMod - Login" />
+    <meta property="twitter:title" content="FurryMod - Login" />
     <meta
         name="description"
         content="Login for PenguinMod to start sharing your projects!"

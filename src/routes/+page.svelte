@@ -352,7 +352,7 @@
 <div class="main" data-aprilfools={isAprilFools()}>
     <NavigationMargin />
 
-    <Alert
+    <!-- <Alert
         onlyShowID={"donatee:_3"}
         text={"PenguinMod is a free-to-use visual coding website. Your support can help us keep the website working!"}
         textBreakup={true}
@@ -363,7 +363,7 @@
         hasButton={true}
         buttonText={"Support"}
         buttonHref={"/support"}
-    />
+    /> -->
     <StatusAlert />
 
     {#if !loggedIn}
@@ -440,7 +440,7 @@
                 />
                 <p>
                     <LocalizedText
-                        text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                        text="FurryMod is made by furry developers. You might see minor issues and sorry for any translation errors if there are any."
                         key="translation.warning"
                         lang={currentLang}
                     />
@@ -463,21 +463,21 @@
                     lang={currentLang}
                 />
             </Button>
-            <Button link={"/support"}>
+            <!-- <Button link={"/support"}>
                 <LocalizedText
                     text="Funding"
                     key="home.footer.sections.donate"
                     lang={currentLang}
                 />
-            </Button>
+            </Button> -->
             <Button label="GitHub" link={LINK.github} />
-            <Button link={LINK.wiki}>
+            <!-- <Button link={LINK.wiki}>
                 <LocalizedText
                     text="Community Wiki"
                     key="home.footer.sections.community.wiki"
                     lang={currentLang}
                 />
-            </Button>
+            </Button> -->
         </div>
     {/if}
 
@@ -486,7 +486,7 @@
             <img src="/warning.png" draggable="false" alt="Warning" />
             <p>
                 <LocalizedText
-                    text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                    text="FurryMod is made by furry developers. You might see minor issues and sorry for any translation errors if there are any."
                     key="translation.warning"
                     lang={currentLang}
                 />
@@ -511,14 +511,14 @@
                     "home.sections.whatsnew",
                     currentLang,
                 )}
-                seemore={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
+                seemore={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
             >
                 <div class="category-content">
                     {#if updates.length > 0}
                         {#each updates as update}
                             <UserDisplay
-                                link={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
-                                userLink={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
+                                link={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
+                                userLink={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
                                 text={update.cleanContent}
                                 author={update.authorName}
                                 image={update.authorImage}
@@ -703,14 +703,14 @@
                     "home.sections.whatsnew",
                     currentLang,
                 )}
-                seemore={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
+                seemore={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
             >
                 <div class="category-content">
                     {#if updates.length > 0}
                         {#each updates as update}
                             <UserDisplay
-                                link={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
-                                userLink={`https://discord.com/channels/1033551490331197462/1038252360184643674`}
+                                link={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
+                                userLink={`https://discord.com/channels/1544048669890846830/1544449666761101372`}
                                 text={update.cleanContent}
                                 author={update.authorName}
                                 image={update.authorImage}
@@ -741,20 +741,19 @@
                 <div class="category-news">
                     <div class="category-news-content">
                         <h2 style="margin-block:4px;">
-                            All The Mods Game Jam has ended!
+                            Welcome to FurryMod!
                         </h2>
                         <div style="width:100%">
                             <p>
-                                Thanks for participating in the event! Rankings will be announced on <a href="https://itch.io/jam/all-the-mods-game-jam">itch.io</a>. See you soon!
+                                We're currently still in development, so expect some bugs and issues. If you find any, please report them in our Discord server (13+)!
                             </p>
-                            <a href="https://itch.io/jam/all-the-mods-game-jam">
-                                All The Mods on itch.io
-                            </a>
+                            <!--
+                            save this if we want to have this image back when we are lazy lmao
                             <img
                                 src="/events/news/allthemods2026.webp?r=1"
                                 alt="All The Mods 2026"
                                 style="width:100%;"
-                            />
+                            /> -->
                         </div>
                     </div>
                     <div class="category-footer">
@@ -768,7 +767,7 @@
                                 ]}
                             {:else}
                                 <LocalizedText
-                                    text="PenguinNews is not translated in your language. Sorry! :("
+                                    text="FurryNews is not translated in your language. Sorry! :("
                                     key="home.sections.informational.notranslation"
                                     lang={currentLang}
                                 />
@@ -804,7 +803,7 @@
                     }}
                 >
                     <LocalizedText
-                        text="PenguinNews"
+                        text="FurryNews"
                         key="home.sections.informational"
                         lang={currentLang}
                     />
@@ -1281,7 +1280,7 @@
         margin: 2px 0px;
     }
     .footer a:active {
-        color: rgb(15, 77, 139);
+        color: #ed900e;
     }
     .footer-list {
         display: flex;
@@ -1394,7 +1393,7 @@
     .section-toggle-button {
         border-radius: 1024px;
         padding: 4px 10px;
-        background: #008cff;
+        background: #fa9510;
         font-weight: bold;
         font-size: 1em;
         border: 0;
@@ -1404,7 +1403,7 @@
         white-space: nowrap;
     }
     .section-toggle-button[data-active="true"] {
-        background: #003bdd;
+        background: #ca7a12;
     }
 
     .profile-picture {

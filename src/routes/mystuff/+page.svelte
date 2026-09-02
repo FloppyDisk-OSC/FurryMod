@@ -148,10 +148,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - My Stuff</title>
-    <meta name="title"                   content="PenguinMod - My Stuff" />
-    <meta property="og:title"            content="PenguinMod - My Stuff" />
-    <meta property="twitter:title"       content="PenguinMod - My Stuff">
+    <title>FurryMod - My Stuff</title>
+    <meta name="title"                   content="FurryMod - My Stuff" />
+    <meta property="og:title"            content="FurryMod - My Stuff" />
+    <meta property="twitter:title"       content="FurryMod - My Stuff">
     <meta name="description"             content="View your own projects & content.">
     <meta property="twitter:description" content="View your own projects & content.">
     <meta property="og:url"              content="https://penguinmod.com/mystuff">

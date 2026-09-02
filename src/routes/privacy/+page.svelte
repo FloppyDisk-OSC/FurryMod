@@ -23,10 +23,10 @@ Language.onChange((lang) => {
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Privacy Policy</title>
-    <meta name="title" content="PenguinMod - Privacy Policy" />
-    <meta property="og:title" content="PenguinMod - Privacy Policy" />
-    <meta property="twitter:title" content="PenguinMod - Privacy Policy">
+    <title>FurryMod - Privacy Policy</title>
+    <meta name="title" content="FurryMod - Privacy Policy" />
+    <meta property="og:title" content="FurryMod - Privacy Policy" />
+    <meta property="twitter:title" content="FurryMod - Privacy Policy">
     <meta name="description" content="The status of your privacy while using PenguinMod.">
     <meta property="twitter:description" content="The status of your privacy while using PenguinMod.">
     <meta property="og:url" content="https://penguinmod.com/privacy">

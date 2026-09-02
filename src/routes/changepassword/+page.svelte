@@ -148,10 +148,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Change Password</title>
-    <meta name="title" content="PenguinMod - Change Password" />
-    <meta property="og:title" content="PenguinMod - Change Password" />
-    <meta property="twitter:title" content="PenguinMod - Change Password" />
+    <title>FurryMod - Change Password</title>
+    <meta name="title" content="FurryMod - Change Password" />
+    <meta property="og:title" content="FurryMod - Change Password" />
+    <meta property="twitter:title" content="FurryMod - Change Password" />
     <meta
         name="description"
         content="Change your password for PenguinMod to access your account with a new password"

@@ -818,15 +818,15 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - {user ? user : "Profile"}</title>
-    <meta name="title" content="PenguinMod - {user ? user : 'User Profile'}" />
+    <title>FurryMod - {user ? user : "Profile"}</title>
+    <meta name="title" content="FurryMod - {user ? user : 'User Profile'}" />
     <meta
         property="og:title"
-        content="PenguinMod - {user ? user : 'User Profile'}"
+        content="FurryMod - {user ? user : 'User Profile'}"
     />
     <meta
         property="twitter:title"
-        content="PenguinMod - {user ? user : 'User Profile'}"
+        content="FurryMod - {user ? user : 'User Profile'}"
     />
     <meta
         name="description"

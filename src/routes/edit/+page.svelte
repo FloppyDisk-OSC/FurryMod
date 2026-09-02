@@ -474,10 +474,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Edit {projectName}</title>
-    <meta name="title"                   content="PenguinMod - Edit" />
-    <meta property="og:title"            content="PenguinMod - Edit" />
-    <meta property="twitter:title"       content="PenguinMod - Edit">
+    <title>FurryMod - Edit {projectName}</title>
+    <meta name="title"                   content="FurryMod - Edit" />
+    <meta property="og:title"            content="FurryMod - Edit" />
+    <meta property="twitter:title"       content="FurryMod - Edit">
     <meta name="description"             content="Edit your project.">
     <meta property="twitter:description" content="Edit your project.">
     <meta property="og:url"              content="https://penguinmod.com/edit">

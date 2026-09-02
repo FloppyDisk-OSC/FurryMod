@@ -776,10 +776,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Upload</title>
-    <meta name="title" content="PenguinMod - Upload" />
-    <meta property="og:title" content="PenguinMod - Upload" />
-    <meta property="twitter:title" content="PenguinMod - Upload" />
+    <title>FurryMod - Upload</title>
+    <meta name="title" content="FurryMod - Upload" />
+    <meta property="og:title" content="FurryMod - Upload" />
+    <meta property="twitter:title" content="FurryMod - Upload" />
     <meta
         name="description"
         content="Upload your project to PenguinMod, for the whole world to see."

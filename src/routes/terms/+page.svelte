@@ -23,12 +23,12 @@
     </script>
     
     <svelte:head>
-        <title>PenguinMod - Terms of Service</title>
-        <meta name="title" content="PenguinMod - Terms of Service" />
-        <meta property="og:title" content="PenguinMod - Terms of Service" />
-        <meta property="twitter:title" content="PenguinMod - Terms of Service">
-        <meta name="description" content="Terms you must follow if you would like to use PenguinMod.">
-        <meta property="twitter:description" content="Terms you must follow if you would like to use PenguinMod.">
+        <title>FurryMod - Terms of Service</title>
+        <meta name="title" content="FurryMod - Terms of Service" />
+        <meta property="og:title" content="FurryMod - Terms of Service" />
+        <meta property="twitter:title" content="FurryMod - Terms of Service">
+        <meta name="description" content="Terms you must follow if you would like to use FurryMod.">
+        <meta property="twitter:description" content="Terms you must follow if you would like to use FurryMod.">
         <meta property="og:url" content="https://penguinmod.com/terms">
         <meta property="twitter:url" content="https://penguinmod.com/terms">
     </svelte:head>

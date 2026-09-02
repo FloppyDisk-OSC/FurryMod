@@ -109,10 +109,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Reset Password</title>
-    <meta name="title" content="PenguinMod - Reset Password" />
-    <meta property="og:title" content="PenguinMod - Reset Password" />
-    <meta property="twitter:title" content="PenguinMod - Reset Password" />
+    <title>FurryMod - Reset Password</title>
+    <meta name="title" content="FurryMod - Reset Password" />
+    <meta property="og:title" content="FurryMod - Reset Password" />
+    <meta property="twitter:title" content="FurryMod - Reset Password" />
     <meta
         name="description"
         content="Reset your password for PenguinMod to regain access to your account with a new password"
