@@ -1182,7 +1182,7 @@
                 </p>
                 <a
                     target="_blank"
-                    href={"https://github.com/PenguinMod/PenguinMod-Home/issues"}
+                    href={"https://github.com/FurryMod/FurryMod-Home/issues"}
                 >
                     <LocalizedText
                         text="Report an issue"
@@ -1190,16 +1190,16 @@
                         lang={currentLang}
                     />
                 </a>
-                <a target="_blank" href={LINK.wiki}>
+                <!-- <a target="_blank" href={LINK.wiki}>
                     <LocalizedText
                         text="Wiki"
                         key="home.footer.sections.community.wiki"
                         lang={currentLang}
                     />
-                </a>
+                </a> -->
                 <a
                     target="_blank"
-                    href={`https://penguinmod.com/redirect?t=${encodeURIComponent(btoa(LINK.discord))}`}
+                    href={`https://furrymod.tutel.page/redirect?t=${encodeURIComponent(btoa(LINK.discord))}`}
                     >Discord</a
                 >
             </div>
@@ -1248,7 +1248,6 @@
                         lang={currentLang}
                     />
                 </p>
-                <a href={"/support"}>PenguinMod</a>
                 <a target="_blank" href={LINK.donate.scratch}>Scratch</a>
             </div>
         </div>
