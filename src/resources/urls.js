@@ -4,37 +4,37 @@ import { PUBLIC_STUDIO_URL } from "$env/static/public";
 
 export default {
     /**
-     * PenguinMod's normal page
+     * FurryMod's studio page
      */
     base: `${PUBLIC_STUDIO_URL}/`,
 
     /**
-     * PenguinMod's editor page
+     * FurryMod's studio editor page
      */
     editor: `${PUBLIC_STUDIO_URL}/editor.html`,
 
     /**
-     * PenguinMod's credits page
+     * FurryMod's credits page
      */
     credits: `${PUBLIC_STUDIO_URL}/credits.html`,
     
     /**
-     * PenguinMod's contact page
+     * FurryMod's contact page
      */
     contact: `${PUBLIC_STUDIO_URL}/contact.html`,
 
     /**
-     * PenguinMod's terms of service page
+     * FurryMod's terms of service page
      */
     terms: "/terms",
 
     /**
-     * PenguinMod's privacy policy page
+     * FurryMod's privacy policy page
      */
     privacy: "/privacy",
 
     /**
-     * PenguinMod's guideline pages for services
+     * FurryMod's guideline pages for services
      */
     guidelines: {
         /**
@@ -52,34 +52,34 @@ export default {
     },
 
     /**
-     * PenguinMod's project page
+     * FurryMod's api url
      */
     projects: `${ProjectApi.OriginApiUrl}/`,
 
     /**
-     * PenguinMod's my stuff page
+     * FurryMod's my stuff page
      */
     mystuff: `${ProjectApi.OriginApiUrl}/mystuff`,
 
     /**
-     * PenguinMod's home page
+     * FurryMod's home page
      */
-    home: "https://penguinmod.com/",
+    home: "https://furrymod.tutel.page/",
 
     /**
-     * PenguinMod's packager page
+     * FurryMod's packager page
      */
     packager: `${PUBLIC_STUDIO_URL}/PenguinMod-Packager/`,
 
     /**
-     * PenguinMod's unofficial wiki
+     * FurryMod's unofficial wiki
      */
     wiki: "https://wiki.penguinmod.com/wiki/Main_Page",
 
     /**
-     * PenguinMod's Discord invite
+     * FurryMod's Discord invite
      */
-    discord: "https://discord.gg/NZ9MBMYTZh",
+    discord: "https://discord.gg/9VJhQVQZ9h",
 
     /**
      * Scratch's website
@@ -92,17 +92,17 @@ export default {
     turbowarp: "https://turbowarp.org",
 
     /**
-     * PenguinMod's github page
+     * FurryMod's github page
      */
-    github: "https://github.com/PenguinMod/",
+    github: "https://github.com/FurryMod/",
 
     /**
-     * PenguinMod's basic API
+     * FurryMod's basic API
      */
     basicApi: "https://penguinmod-basic-api.derpygamer2142.com/",
 
     /**
-     * The admin panel for pm projects api
+     * The admin panel for the api
      */
-    adminPanel: "https://penguinmod.com/panel"
+    adminPanel: "https://furrymod.tutel.page/panel"
 }
